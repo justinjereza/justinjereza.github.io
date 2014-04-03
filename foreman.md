@@ -1,5 +1,5 @@
 ---
-layout: basic
+layout: midnight
 title: Foreman notes
 ---
 Foreman
