@@ -1,5 +1,7 @@
 ---
 layout: basic
-title: Justin Jereza
+title: Blog without a name.
 ---
-<h1>Layout Test</h1>
+Pages
+-----
+- [Foreman](foreman.html)
