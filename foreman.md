@@ -2,6 +2,7 @@
 layout: midnight
 title: Foreman notes
 ---
+
 Foreman
 =======
 
