@@ -1,0 +1,5 @@
+timezone: Asia/Manila
+markdown: kramdown
+
+kramdown:
+  input: GFM
